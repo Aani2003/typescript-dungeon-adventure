@@ -1,4 +1,4 @@
-🗡️ Dungeon CLI Adventure
+🗡️ **DUNGEON CLI ADVENTURE**
 
 A text-based dungeon adventure game built with **TypeScript** and **Inquirer.js**.  
 Battle enemies, collect health potions, gain XP, and level up as you fight your way through a procedurally generated dungeon.
