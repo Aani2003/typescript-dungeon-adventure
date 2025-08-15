@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "module": "es2022",          // ✅ supports top-level await
+    "target": "es2022",          // ✅ ES2022+ is fine
+    "moduleResolution": "node",  // ✅ resolves node-style imports
+    "types": ["node"],           // ✅ includes Node types
+    "esModuleInterop": true,     // ✅ smooth import compatibility
+
+    // other options from your file
+    "sourceMap": true,
+    "declaration": true,
+    "declarationMap": true,
+    "noUncheckedIndexedAccess": true,
+    "exactOptionalPropertyTypes": true,
+    "strict": true,
+    "jsx": "react-jsx",
+    "verbatimModuleSyntax": true,
+    "isolatedModules": true,
+    "noUncheckedSideEffectImports": true,
+    "moduleDetection": "force",
+    "skipLibCheck": true
+  }
+}
